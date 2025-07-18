@@ -9,4 +9,4 @@ up because it was made in Google colab so we'll have to fix that eventually):
 2) run pynb in colab (you'll have to mount your drive so that the project will access and then unzip the dataset within it)
 3) for the testphto part, you could either download the given testphto in this repo or upload your own (MUST be jpg file though)
 
-yeah that's basically it
+yeah that's basically it (will def fix this so you can run it elsewhere like in vscode most likely if we ever decide to add extra features on our own)
